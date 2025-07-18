@@ -22,7 +22,7 @@
         align-items: center;
         flex-wrap: wrap;
         justify-content: center;
-
+        
         &__item {
             display: inline-block;
 
@@ -57,7 +57,7 @@
         border: none;
         color: variaveis.$corTextoPrincipal;
         height: 38px;
-    
+
         &:hover {
             color: variaveis.$corTextoSecundario;
         }
